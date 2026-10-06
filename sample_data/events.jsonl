@@ -1,0 +1,3 @@
+{"tenant_id":"bank-demo-01","account_id":"acct-1001","event_type":"authorization","amount":"89.25","event_time":"2026-10-01T12:00:00Z"}
+{"tenant_id":"bank-demo-01","account_id":"acct-1001","event_type":"payment","amount":"89.25","event_time":"2026-10-01T12:00:03Z"}
+{"tenant_id":"credit-union-demo-02","account_id":"acct-2002","event_type":"deposit","amount":"500.00","event_time":"2026-10-01T12:01:00Z"}
